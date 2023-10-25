@@ -16,7 +16,7 @@ pip install numpy pandas matplotlib seaborn
 
 ### Code
 
-You can find the entire code in the [F1.py](F1.py) file.
+You can find the entire code in the [F1.py](f1.py) file.
 
 ### Dataset
 
